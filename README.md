@@ -1,4 +1,4 @@
 # About me
 Hello. Example text.
 # Contact
-Discord - Eima#5634
+Discord - Sacode#5634
