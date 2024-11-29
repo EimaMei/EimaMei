@@ -1,6 +1,6 @@
 # Lietuvių k. (Lithuanian)
 ## Apie mane
-Žemo lygio kalbų programuotojas, siekiantis kurti greitas ir stabilias programas, skirdamas dėmesį švariam, tvarkingui kodui. Dažniausiai naudoju C programavimo kalbą šiems tikslams pasiekti.
+Žemo lygio kalbų programuotojas, kuris siekia kurti greitas ir stabilias programas skirdamas dėmesį švariam, tvarkingui kodui. Dažniausiai naudoju C programavimo kalbą šiems tikslams pasiekti.
 
 
 # English (Anglų k.)
